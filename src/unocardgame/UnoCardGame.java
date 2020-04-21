@@ -14,6 +14,17 @@ public class UnoCardGame {
     // only 2 variabes created before commit 
     String gameName;
     int cardCount;
+    
+    //adding this variable after comitting and pushing the code to gitHUb
+    int volume;
+
+    public int getVolume() {
+        return volume;
+    }
+
+    public void setVolume(int volume) {
+        this.volume = volume;
+    }
 
     /**
      * @param args the command line arguments
