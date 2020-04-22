@@ -18,6 +18,9 @@ public class UnoCardGame {
     //adding this variable after comitting and pushing the code to gitHUb
     int volume;
 
+//adding one variable by Simran
+int count;
+
     public int getVolume() {
         return volume;
     }
